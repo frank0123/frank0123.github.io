@@ -5,7 +5,6 @@
 	thanks for their open sources!
 */
 jQuery(document).ready(function($){
-
  	"use strict";
 
 	/* Preloader */
