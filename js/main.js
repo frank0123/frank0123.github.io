@@ -68,7 +68,7 @@ jQuery(document).ready(function($){
 		}
 	};
 
-	// Random bg-img for header
+	/* Random bg-img for header
 	var Annie_Random = function() {
 		//generate a random img that pre_name 'from 0 to 110'
 		//var random_bg = Math.floor(Math.random() * 109 + 1);
@@ -77,6 +77,7 @@ jQuery(document).ready(function($){
 		var bg = 'url(/img/random/' + random_bg + '.jpg)';
 		$("header").css("background-image", bg);
 	};
+  */
 
 	/* ToTop */
 	var Annie_ToTop = function() {
